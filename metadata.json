@@ -1,0 +1,7 @@
+{
+  "name": "Phone Wallpaper Generator",
+  "description": "Generate and remix 4 variations of phone wallpapers from vibe descriptions with full-screen preview and download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
